@@ -4,9 +4,14 @@
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1bGNoN3I3ZHR1Mm5uNWd5MWhqeG1vMXA5d3B1d29wbTlvYWFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="450" > 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danteluque/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](mailto:dandeveloper1004@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/danteluque/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dandeveloper1004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 ## Tecnologias 💻
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
