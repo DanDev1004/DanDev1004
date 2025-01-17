@@ -1,8 +1,8 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxdzBrZXF0eGxpbTF6bmJ2eWY1enZwazU1dHB6aHpzOW94dms3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vyW0JYKc0aANVlDZXG/giphy.gif" width="100" /> Bienvenid@ al GitHub de Dante Luque
 
-<center>
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1bGNoN3I3ZHR1Mm5uNWd5MWhqeG1vMXA5d3B1d29wbTlvYWFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="350"> 
-</center>
+<div align="center">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1bGNoN3I3ZHR1Mm5uNWd5MWhqeG1vMXA5d3B1d29wbTlvYWFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="450" > 
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danteluque/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
