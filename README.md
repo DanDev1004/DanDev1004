@@ -1,4 +1,9 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxdzBrZXF0eGxpbTF6bmJ2eWY1enZwazU1dHB6aHpzOW94dms3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vyW0JYKc0aANVlDZXG/giphy.gif" width="100" /> Bienvenid@ al GitHub de Dante Luque
+
+<div align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxdzBrZXF0eGxpbTF6bmJ2eWY1enZwazU1dHB6aHpzOW94dms3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vyW0JYKc0aANVlDZXG/giphy.gif" width="100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=031F87&height=100&section=header&text=Bienvenid@%20al%20GitHub%20de%20Dante%20Luque&fontColor=fff&fontSize=35&fontAlign=37" alt="Banner azul" width="87%" />
+</div>
+
 
 <div align="center">
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1bGNoN3I3ZHR1Mm5uNWd5MWhqeG1vMXA5d3B1d29wbTlvYWFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="450" > 
