@@ -42,3 +42,7 @@
 
 ## Las estadisticas del repositorio
 ![Dante Luque' GitHub stats](https://github-readme-stats.vercel.app/api?username=dandev1004&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandev1004&layout=compact&theme=dark)
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=031F87&height=100&section=footer" alt="Banner azul footer" width="100%">
+
